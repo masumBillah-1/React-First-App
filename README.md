@@ -30,10 +30,13 @@ These are the Programming Hero APIs this project interacts with:
 
 ---
 
-```// Fetch all countries
+```
+// Fetch all countries
 fetch("https://openapi.programming-hero.com/api/all")
   .then((res) => res.json())
-  .then((data) => console.log(data));```
+  .then((data) => console.log(data));
+  
+  ```
 
 ----
 
