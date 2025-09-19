@@ -35,10 +35,12 @@ fetch("https://openapi.programming-hero.com/api/all")
   .then((res) => res.json())
   .then((data) => console.log(data));```
 
-
+----
 
 - [APIs Used](#apis-used)
 - [Endpoints](#endpoints)
     - https://openapi.programming-hero.com/api/all
     - https://openapi.programming-hero.com/api/all
     - https://openapi.programming-hero.com/api/all
+
+---
