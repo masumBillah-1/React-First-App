@@ -24,8 +24,9 @@ These are the Programming Hero APIs this project interacts with:
 | `/api/name/{name}`     | Fetches data on a country (or countries) by its **common name**.     |
 
 
-
-|Masum BIllah | Fetches data on **all countries**.  |
+| Name         | Detalies                            |
+| ------------ | ----------------------------------- |
+| Masum BIllah | Fetches data on **all countries**.  |
 
 ---
 
