@@ -23,6 +23,10 @@ These are the Programming Hero APIs this project interacts with:
 | `/api/lang/{language}` | Fetches countries where the specified **language** is spoken.        |
 | `/api/name/{name}`     | Fetches data on a country (or countries) by its **common name**.     |
 
+
+
+|Masum BIllah | Fetches data on **all countries**.  |
+
 ---
 
 ```js
